@@ -1,2 +1,1 @@
-# AWS-AI_Practitioner
-AWS Certified AI Practitioner
+# AWS Certified AI Practitioner
