@@ -41,7 +41,6 @@ else:
 
 print(f"'{frase}' é um palíndromo? {resposta}")
 
-
 #------------------------------------------------------------
 
 def calcular_desconto(preco, percentual_desconto):
